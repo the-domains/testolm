@@ -1,0 +1,14 @@
+layout_spectrum: 0.31312564644031227
+typography_spectrum: 0.8758642841130495
+color:
+  brandStrength: 0.7426434678491205
+  lightness: 0.859946318436414
+  saturation: 0.9148410772904754
+  rhythmicContrast: 0.8143708440475166
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+name: TestOlm
